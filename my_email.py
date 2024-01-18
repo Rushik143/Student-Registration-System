@@ -1,2 +1,2 @@
-email_address = '8412manasipatil@gmail.com'
+email_address = 'rushikpatil1@gmail.com'
 password = 'ngewdtbzlojtdawi'
